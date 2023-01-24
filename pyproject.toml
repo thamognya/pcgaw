@@ -37,7 +37,7 @@ python = "^3.10"
 typer = {extras = ["all"], version = "^0.4.0"}
 rich = "^10.14.0"
 fake-useragent = "^1.1.1"
-selenium = "^4.7.2"
+selenium = "^4.8.0"
 
 [tool.poetry.group.dev.dependencies]
 bandit = "^1.7.4"
