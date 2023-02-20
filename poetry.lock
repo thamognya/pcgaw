@@ -1179,14 +1179,14 @@ gitlab = ["python-gitlab (>=1.3.0)"]
 
 [[package]]
 name = "selenium"
-version = "4.7.2"
+version = "4.8.2"
 description = ""
 category = "main"
 optional = false
-python-versions = "~=3.7"
+python-versions = ">=3.7"
 files = [
-    {file = "selenium-4.7.2-py3-none-any.whl", hash = "sha256:06a1c7d9f313130b21c3218ddd8852070d0e7419afdd31f96160cd576555a5ce"},
-    {file = "selenium-4.7.2.tar.gz", hash = "sha256:3aefa14a28a42e520550c1cd0f29cf1d566328186ea63aa9a3e01fb265b5894d"},
+    {file = "selenium-4.8.2-py3-none-any.whl", hash = "sha256:bd04eb41395605d9b2b65fe587f3fed21431da75512985c52772529e5e210c60"},
+    {file = "selenium-4.8.2.tar.gz", hash = "sha256:c48372905bffcc3b24bd55ab4683a07ee5e1f30fe918c59558ea5ee44cedf6c3"},
 ]
 
 [package.dependencies]
@@ -1542,4 +1542,4 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "51bc6fbc7bbbd90c5ddd6cc06f498c4326c92a5228098bb9ec50b9b3dcdf9e31"
+content-hash = "53c08e64942c09f8e405f31f201683f3e0b3f48ef5bc76d3d5b70238f2a97482"
