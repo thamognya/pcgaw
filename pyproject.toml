@@ -40,7 +40,7 @@ fake-useragent = "^1.1.1"
 selenium = "^4.7.2"
 
 [tool.poetry.group.dev.dependencies]
-bandit = "^1.7.4"
+bandit = "^1.7.5"
 black = {version = "^23.1a1", allow-prereleases = true}
 darglint = "^1.8.1"
 isort = {extras = ["colors"], version = "^5.11.4"}
